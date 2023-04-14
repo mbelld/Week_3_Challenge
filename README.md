@@ -3,12 +3,14 @@
 ## * challenge submission *
 
 ### This Challenge consists of 3 phases for data:
+
 <sub>
 1. Collect 
 
 2. Prepare 
 
 3. Analyze
+    
 </sub>
 
 ## Data Analysis
