@@ -1,9 +1,8 @@
 # Module-3
 
-##*challenge submission
+## * challenge submission *
 
-###This Challenge consists of 3 phases for data:
-
+### This Challenge consists of 3 phases for data:
 <sub>
 1. Collect 
 
@@ -12,17 +11,14 @@
 3. Analyze
 </sub>
 
+## Data Analysis
 
-##Data Analysis
+### The dummy data compares spreads for bitcoin and coinbase on the same trading day across different venues
 
-###The dummy data compares spreads for bitcoin and coinbase 
-on the same trading day across different venues
-<sub>
-Early sample = January 15, 2018
+**Early** sample = January 15, 2018
     
-Middle sample = February 15, 2018
+**Middle** sample = February 15, 2018
     
-Late sample = March 15, 2018
-</sub>
+**Late** sample = March 15, 2018
 
 
